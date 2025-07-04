@@ -10,7 +10,7 @@ require (
 	github.com/bradleyfalzon/ghinstallation/v2 v2.11.0
 	github.com/buildkite/go-buildkite/v3 v3.11.0
 	github.com/dchest/uniuri v1.2.0
-	github.com/diggerhq/digger/backend v0.0.0-20241111113338-9a40639ab83c
+	github.com/diggerhq/digger/backend v0.0.0-20250704034421-5cf11a5ff644
 	github.com/diggerhq/digger/ee/drift v0.0.0-20241227171610-34d1db1e4299
 	github.com/diggerhq/digger/libs v0.4.15
 	github.com/gin-gonic/gin v1.10.0
@@ -182,6 +182,7 @@ require (
 	github.com/hashicorp/yamux v0.0.0-20211028200310-0bc27b27de87 // indirect
 	github.com/howeyc/gopass v0.0.0-20210920133722-c8aef6fb66ef // indirect
 	github.com/imdario/mergo v0.3.12 // indirect
+	github.com/imdatngo/slog-gorm/v2 v2.0.0 // indirect
 	github.com/jackc/pgpassfile v1.0.0 // indirect
 	github.com/jackc/pgservicefile v0.0.0-20231201235250-de7065d80cb9 // indirect
 	github.com/jackc/pgx/v5 v5.5.5 // indirect
